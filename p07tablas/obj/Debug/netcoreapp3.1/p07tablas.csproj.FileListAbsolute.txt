@@ -1,0 +1,13 @@
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.exe
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.deps.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.runtimeconfig.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.runtimeconfig.dev.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.csprojAssemblyReference.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.AssemblyInfoInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.AssemblyInfo.cs
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.csproj.CoreCompileInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.genruntimeconfig.cache

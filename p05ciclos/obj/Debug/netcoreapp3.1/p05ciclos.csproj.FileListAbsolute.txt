@@ -1,0 +1,13 @@
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.exe
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.deps.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.runtimeconfig.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.runtimeconfig.dev.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.csprojAssemblyReference.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.AssemblyInfoInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.AssemblyInfo.cs
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.csproj.CoreCompileInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.genruntimeconfig.cache

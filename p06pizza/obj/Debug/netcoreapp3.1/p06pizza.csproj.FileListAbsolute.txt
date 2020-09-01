@@ -1,0 +1,13 @@
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.exe
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.deps.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.runtimeconfig.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.runtimeconfig.dev.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.csprojAssemblyReference.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.AssemblyInfoInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.AssemblyInfo.cs
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.csproj.CoreCompileInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.genruntimeconfig.cache
