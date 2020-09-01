@@ -1,12 +1,14 @@
 ﻿using System;
-
+// Programa que muestra ejemplos de uso de ciclos
+// Karla Margarita Ponce Garcia
+// 01/Sep/2020
 namespace p05ciclos
 {
     class Program
     {
         static int Main(string[] args)
         {
-            int op, c=0, suma=0;
+            int op, c=0, suma=0; //c es contador
             Console.Clear();
             if(args.Length == 0){ //verifica que se haya pasado argumento en la linea de comando
                 Menu();
@@ -31,7 +33,7 @@ namespace p05ciclos
                         Console.Write($"{c} ");
                         suma+=c;
                         c--;
-                    }while(c>=1)
+                    }while(c>=1);
                     Console.Write($"\n La suma es {suma}");
                 }
                 break;
@@ -64,7 +66,7 @@ namespace p05ciclos
                 break;
                 case 6:{ //numeros del 272 al 40 con decrementos de 4 con do while
                     c=272; suma=0;
-                    while(c>=40)
+                    while(c>=40){
                         Console.Write($"{c} ");
                         suma+=c;
                         c-=4;
