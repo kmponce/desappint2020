@@ -1,0 +1,13 @@
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.exe
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.deps.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.runtimeconfig.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.runtimeconfig.dev.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.csprojAssemblyReference.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.AssemblyInfoInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.AssemblyInfo.cs
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.csproj.CoreCompileInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.genruntimeconfig.cache

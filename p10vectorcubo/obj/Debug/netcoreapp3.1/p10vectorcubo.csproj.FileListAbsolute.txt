@@ -1,0 +1,13 @@
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.exe
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.deps.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.runtimeconfig.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.runtimeconfig.dev.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.csprojAssemblyReference.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.AssemblyInfoInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.AssemblyInfo.cs
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.csproj.CoreCompileInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.genruntimeconfig.cache

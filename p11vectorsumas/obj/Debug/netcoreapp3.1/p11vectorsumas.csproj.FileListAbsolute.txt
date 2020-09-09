@@ -1,0 +1,13 @@
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.exe
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.deps.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.runtimeconfig.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.runtimeconfig.dev.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.csprojAssemblyReference.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.AssemblyInfoInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.AssemblyInfo.cs
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.csproj.CoreCompileInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.genruntimeconfig.cache

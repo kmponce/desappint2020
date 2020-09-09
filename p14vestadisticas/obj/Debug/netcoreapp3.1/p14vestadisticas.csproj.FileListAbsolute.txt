@@ -1,0 +1,13 @@
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\obj\Debug\netcoreapp3.1\p14vestadisticas.csprojAssemblyReference.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\obj\Debug\netcoreapp3.1\p14vestadisticas.AssemblyInfoInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\obj\Debug\netcoreapp3.1\p14vestadisticas.AssemblyInfo.cs
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\obj\Debug\netcoreapp3.1\p14vestadisticas.csproj.CoreCompileInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\bin\Debug\netcoreapp3.1\p14vestadisticas.exe
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\bin\Debug\netcoreapp3.1\p14vestadisticas.deps.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\bin\Debug\netcoreapp3.1\p14vestadisticas.runtimeconfig.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\bin\Debug\netcoreapp3.1\p14vestadisticas.runtimeconfig.dev.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\bin\Debug\netcoreapp3.1\p14vestadisticas.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\bin\Debug\netcoreapp3.1\p14vestadisticas.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\obj\Debug\netcoreapp3.1\p14vestadisticas.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\obj\Debug\netcoreapp3.1\p14vestadisticas.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p14vestadisticas\obj\Debug\netcoreapp3.1\p14vestadisticas.genruntimeconfig.cache

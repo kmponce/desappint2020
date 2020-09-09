@@ -1,0 +1,13 @@
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.exe
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.deps.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.runtimeconfig.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.runtimeconfig.dev.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.csprojAssemblyReference.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.AssemblyInfoInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.AssemblyInfo.cs
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.csproj.CoreCompileInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.genruntimeconfig.cache
