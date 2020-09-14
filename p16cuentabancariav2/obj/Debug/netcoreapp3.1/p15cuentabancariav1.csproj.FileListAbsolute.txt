@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/bin/Debug/netcoreapp3.1/p15cuentabancariav1.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/bin/Debug/netcoreapp3.1/p15cuentabancariav1.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/bin/Debug/netcoreapp3.1/p15cuentabancariav1.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/bin/Debug/netcoreapp3.1/p15cuentabancariav1.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/bin/Debug/netcoreapp3.1/p15cuentabancariav1.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/obj/Debug/netcoreapp3.1/p15cuentabancariav1.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/obj/Debug/netcoreapp3.1/p15cuentabancariav1.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/obj/Debug/netcoreapp3.1/p15cuentabancariav1.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/obj/Debug/netcoreapp3.1/p15cuentabancariav1.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/obj/Debug/netcoreapp3.1/p15cuentabancariav1.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/obj/Debug/netcoreapp3.1/p15cuentabancariav1.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p15cuentabancariav1/obj/Debug/netcoreapp3.1/p15cuentabancariav1.genruntimeconfig.cache
