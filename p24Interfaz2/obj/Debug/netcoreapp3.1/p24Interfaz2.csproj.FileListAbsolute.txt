@@ -1,0 +1,13 @@
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.exe
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.deps.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.runtimeconfig.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.runtimeconfig.dev.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.csprojAssemblyReference.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.AssemblyInfoInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.AssemblyInfo.cs
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.csproj.CoreCompileInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.exe
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.deps.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.runtimeconfig.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.runtimeconfig.dev.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.csprojAssemblyReference.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.AssemblyInfoInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.AssemblyInfo.cs
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.csproj.CoreCompileInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.genruntimeconfig.cache
