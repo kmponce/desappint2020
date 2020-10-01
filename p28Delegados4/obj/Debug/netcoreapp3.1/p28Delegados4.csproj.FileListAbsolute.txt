@@ -1,0 +1,13 @@
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.exe
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.deps.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.runtimeconfig.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.runtimeconfig.dev.json
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.csprojAssemblyReference.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.AssemblyInfoInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.AssemblyInfo.cs
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.csproj.CoreCompileInputs.cache
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.dll
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.pdb
+C:\Users\blue\Desktop\ProyectosDAI2020\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.genruntimeconfig.cache
