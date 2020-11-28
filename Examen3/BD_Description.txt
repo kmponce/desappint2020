@@ -1,0 +1,35 @@
+Students, Courses and Tutors Scenario
+The following data model is designed to hold information relating to Students,
+ Student Courses and Tutors who deal with these students. 
+For this scenario we need to define the following facts:
+
+These facts define the requirements which the Database must meet and should be agreed between the Database User and the Database Designer prior to physical creation.
+
+The draft facts have been defined as:
+
+The Entities required should include:
+
+Student Information
+Courses
+Student Courses
+Employees (Tutors)
+Contact Information (Contact between the Student and the Tutor by e-mail, phone, projects etc.)
+Contact Types (e-mail, phone, projects, assessments)
+The Entities are related as follows:
+
+One Student can enroll on One or Many Courses
+One Course can have One or Many Students enrolled on it.
+One Student can have zero, one or many forms of Contact with the Course Tutor
+One Employee (Tutor) can deal with many Contacts
+One Contact Type (Phone, E-mail, Assessments, Projects etc.) can have zero, one or many Contacts
+The design allows a Student to enroll on multiple Courses, with a Course having many Students enrolled upon it. The Student may be in contact with the Course Tutor many times using many different forms of Contact. A Tutor will deal with many contacts involving many Students.
+
+When asking questions of the database we may need to know:
+
+How many Students are enrolled on a particular Course?
+Which Students are due to expire shortly?
+When was the last contact made between a particular Student and a Tutor?
+How many Students do we have from a particular County?
+Which Course is the most popular?
+How many currently enrolled Students do we have?
+The following data model allows these questions to be answered and allows the information contained above to be stored logically and in a structured manner.

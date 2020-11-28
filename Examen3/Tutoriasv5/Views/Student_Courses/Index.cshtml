@@ -1,0 +1,68 @@
+@model IEnumerable<Tutorias.Models.Student_Course>
+
+@{
+    ViewData["Title"] = "Student Courses";
+}
+
+<h1>Student Courses</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by name o course: <input type="text" name="SearchString" />
+            <input type="submit" value="Search" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentID)
+            </th>
+            <th>
+                Student
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseComplete)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseComplete)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.StudentID, id2 = item.CourseID, id3=item.CourseStartDate}) |
+                @Html.ActionLink("Details", "Details", new { id = item.StudentID, id2 = item.CourseID, id3=item.CourseStartDate}) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.StudentID, id2 = item.CourseID, id3=item.CourseStartDate })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
